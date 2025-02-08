@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/kindermmu/static/css/main.bbb80119.css",
+    "main.js": "/kindermmu/static/js/main.122b9614.js",
+    "static/js/239.0ece3bd7.chunk.js": "/kindermmu/static/js/239.0ece3bd7.chunk.js",
+    "static/js/213.ff64db72.chunk.js": "/kindermmu/static/js/213.ff64db72.chunk.js",
+    "static/js/455.a35977ad.chunk.js": "/kindermmu/static/js/455.a35977ad.chunk.js",
+    "index.html": "/kindermmu/index.html",
+    "main.bbb80119.css.map": "/kindermmu/static/css/main.bbb80119.css.map",
+    "main.122b9614.js.map": "/kindermmu/static/js/main.122b9614.js.map",
+    "239.0ece3bd7.chunk.js.map": "/kindermmu/static/js/239.0ece3bd7.chunk.js.map",
+    "213.ff64db72.chunk.js.map": "/kindermmu/static/js/213.ff64db72.chunk.js.map",
+    "455.a35977ad.chunk.js.map": "/kindermmu/static/js/455.a35977ad.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bbb80119.css",
+    "static/js/main.122b9614.js"
+  ]
+}
